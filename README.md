@@ -43,9 +43,11 @@ new random starting state for a new game.
 11.Handle game exit: If the player closes the game window or presses the quit key, the game
 loop is exited and the pygame library is uninitialized using the "pygame.quit()" function, ending
 the game.
-![image](https://github.com/user-attachments/assets/f7834d66-1fd4-4eaa-a80e-f04301a85abf)
 
-![image](https://github.com/user-attachments/assets/087e754f-85f3-4806-a657-e4b57bf86b9f)
+![image](https://github.com/user-attachments/assets/8b71008d-6d9d-4656-91e4-65444e06f484)
+
+![image](https://github.com/user-attachments/assets/c2eaaaf2-0e51-426b-9e7b-f4813b2b51e6)
+
 
 
 
